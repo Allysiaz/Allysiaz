@@ -19,32 +19,10 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 
 **Quality Assurance & Testing**
-![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat-square&logo=cypress&logoColor=058a5e) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=flat-square&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%2343B02A?style=flat-square&logo=selenium&logoColor=white) ![Testing](https://img.shields.io/badge/-Manual_Testing-blue?style=flat-square) ![Dusk](https://img.shields.io/badge/-Laravel_Dusk-red?style=flat-square)
+![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat-square&logo=cypress&logoColor=058a5e) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=flat-square&logo=playwright&logoColor=white) ![Manual Testing](https://img.shields.io/badge/Manual_Testing-%230052CC.svg?style=flat-square&logo=testinglibrary&logoColor=white) ![Laravel Dusk](https://img.shields.io/badge/Laravel_Dusk-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
 
 **Tools & Others**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Odoo](https://img.shields.io/badge/Odoo-%23714B67.svg?style=flat-square&logo=odoo&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-
----
-
-### 💻 Highlighted Projects
-
-* **[PawPaw](#)** 🐾  
-  A web-based pet clinic management and reservation platform featuring multi-tier vendor services.  
-  *Role:* Fullstack / QA (Built with Laravel, PostgreSQL, Livewire. Tested using Cypress, Playwright, Selenium, and Laravel Dusk).
-  
-* **[Skedul.in](#)** 📅  
-  A mobile-based schedule and notes management application utilizing MVVM architecture.  
-  *Role:* Mobile Developer (Built with Flutter and Dart, handled Use Case, Activity, and Sequence diagrams design).
-
-* **[Laboratorium Data Technologies CMS Profile](#)** 🧪  
-  A dynamic profile website with integrated CMS for a university laboratory.  
-  *Role:* Frontend Developer (Handled HTML/CSS/JS frontend execution, UI slicing, API integration, and layout testing).
-
-* **[Simple POS](#)** 🛒  
-  A lightweight point-of-sale web application.  
-  *Role:* Developer (Built with Laravel 13, SQLite, Tailwind CSS, and Alpine.js).
-
----
 
 ---
 
