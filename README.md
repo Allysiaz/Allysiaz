@@ -20,7 +20,7 @@
 ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat-square&logo=cypress&logoColor=058a5e) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=flat-square&logo=playwright&logoColor=white) ![Laravel Dusk](https://img.shields.io/badge/Laravel_Dusk-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
 
 **Tools & Others**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Odoo](https://img.shields.io/badge/Odoo-%23714B67.svg?style=flat-square&logo=odoo&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Odoo](https://img.shields.io/badge/Odoo-%23714B67.svg?style=flat-square&logo=odoo&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ---
 
