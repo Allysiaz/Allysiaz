@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - 🎓 Currently pursuing a degree in **Business Information Systems** (D4) at Politeknik Negeri Malang.
-- 🎯 Passionate about **Web Development** and **Software Testing**, focusing on building seamless interfaces and ensuring robust application reliability.
+- 🎯 Passionate about **Web Development** and **Software Testing**.
 - 💡 Currently exploring modern frameworks and automated end-to-end testing methodologies.
 - 🎨 Beyond coding, I enjoy doing digital graphic design and video editing to create engaging visual content.
 
