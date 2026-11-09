@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi there, I'm Nadine Jullietta Allysia 👋
 
-<!--
-**Allysiaz/Allysiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 Currently pursuing a degree in **Business Information Systems** (D4) at Politeknik Negeri Malang.
+- 🎯 Passionate about **Web Development** and **Software Testing**, focusing on building seamless interfaces and ensuring robust application reliability.
+- 💡 Currently exploring modern frameworks and automated end-to-end testing methodologies.
+- 🎨 Beyond coding, I enjoy doing digital graphic design and video editing to create engaging visual content.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Frontend & Mobile**
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0.svg?style=flat-square&logo=alpine.js&logoColor=white)
+
+**Backend & Database**
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+
+**Quality Assurance & Testing**
+![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat-square&logo=cypress&logoColor=058a5e) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=flat-square&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%2343B02A?style=flat-square&logo=selenium&logoColor=white) ![Testing](https://img.shields.io/badge/-Manual_Testing-blue?style=flat-square) ![Dusk](https://img.shields.io/badge/-Laravel_Dusk-red?style=flat-square)
+
+**Tools & Others**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Odoo](https://img.shields.io/badge/Odoo-%23714B67.svg?style=flat-square&logo=odoo&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+### 💻 Highlighted Projects
+
+* **[PawPaw](#)** 🐾  
+  A web-based pet clinic management and reservation platform featuring multi-tier vendor services.  
+  *Role:* Fullstack / QA (Built with Laravel, PostgreSQL, Livewire. Tested using Cypress, Playwright, Selenium, and Laravel Dusk).
+  
+* **[Skedul.in](#)** 📅  
+  A mobile-based schedule and notes management application utilizing MVVM architecture.  
+  *Role:* Mobile Developer (Built with Flutter and Dart, handled Use Case, Activity, and Sequence diagrams design).
+
+* **[Laboratorium Data Technologies CMS Profile](#)** 🧪  
+  A dynamic profile website with integrated CMS for a university laboratory.  
+  *Role:* Frontend Developer (Handled HTML/CSS/JS frontend execution, UI slicing, API integration, and layout testing).
+
+* **[Simple POS](#)** 🛒  
+  A lightweight point-of-sale web application.  
+  *Role:* Developer (Built with Laravel 13, SQLite, Tailwind CSS, and Alpine.js).
+
+---
+
+---
+
+### 📫 Let's Connect!
+
+Feel free to reach out, discuss tech, or just say hi!
+
+<p align="left">
+  <a href="mailto:juliettanadine@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/nadineJullietta">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
