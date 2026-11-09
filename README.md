@@ -1,7 +1,5 @@
 # Hi there, I'm Nadine Jullietta Allysia 👋
 
----
-
 ### 🚀 About Me
 - 🎓 Currently pursuing a degree in **Business Information Systems** (D4) at Politeknik Negeri Malang.
 - 🎯 Passionate about **Web Development** and **Software Testing**, focusing on building seamless interfaces and ensuring robust application reliability.
